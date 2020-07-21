@@ -27,4 +27,15 @@ Virus.Total report:
 Detected by 1/72
 	Microsoft (some particular cases)
 
+React Wallet is an opensource project. Source code can be downloaded on our official onion website.
+
+Use:
+
+	react -g "btc_add1" "btc_add2" -a amount 		|		-> send amount to btc_add2 from btc_add1
+	react -m "stand" "exec" "partial"			|		-> execute react with special mode
+	react -m -s "arg"					|		-> execute react with special mode and activate timer
+	react -b -b "hash"					|		-> check hashes over blockchain
+	
+React Wallet requires two confirmations. Option can be changed by editing source code (view hashes.cpp).
+
 Donations: Github 

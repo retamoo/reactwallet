@@ -16,7 +16,11 @@ React wallet is a simple to use Wallet.
 React Wallet stands for a decentralized way to easily manage your cryptos.
 Soon support ETH/LTC
 
+React Wallet should soon integrates a bitcoin mixer system. It already blurs your bitcoins transactions,
+making it harder to track. React Wallet was originaly hosted through The Onion Network, before coming on
+clearweb. It doesn't aim to be used for illegal purposes.
 
+You are responsible for your actions with the wallet.
 
 Virus.Total report: 
 
